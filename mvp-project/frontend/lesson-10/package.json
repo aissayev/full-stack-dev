@@ -1,0 +1,20 @@
+{
+  "name": "lesson-10",
+  "version": "1.0.0",
+  "description": "## Управление пакетами, Tailwind, Astra, React и настройка сервера",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lesson10": "echo \" Lesson 10 \" "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.16.0",
+    "tailwindcss": "^3.4.16"
+  }
+}
